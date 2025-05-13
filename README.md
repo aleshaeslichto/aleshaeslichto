@@ -6,10 +6,10 @@
 <br>
 <pre>
   💼 CMW • Analyst • Automatization
-  🏊🏻‍♂️ Sport • Swimming • Open-water
   ⌨️ JS • TS • React
   📊 BPMN • UML • SWOT • MoSCoW
   📈 Postman • Swagger • SQL • Git • REST / SOAP API
+  🏊🏻‍♂️ Sport • Swimming • Open-water
 </pre>
 <br><br>
 </div>
