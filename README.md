@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**aleshaeslichto/aleshaeslichto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://github.com/aleshaeslichto/aleshaeslichto/blob/main/welcome.gif" width="20%" />
+<br>
+<img src="https://github.com/aleshaeslichto/aleshaeslichto/blob/main/0f8e10b4dc9707d222113df0aec0bf2f.gif" width="25%"/>
+<br>
+<br>
+<pre>
+  💼 CMW • Analyst • Automatization
+  🏊🏻‍♂️ Sport • Swimming • Open-water
+  ⌨️ JS • TS • React
+  📊 BPMN • UML • SWOT • MoSCoW
+  📈 Postman • Swagger • SQL • Git • REST / SOAP API
+</pre>
+<br><br>
+</div>
