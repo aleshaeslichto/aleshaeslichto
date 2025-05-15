@@ -7,9 +7,6 @@
 <pre>
   💼 CMW • Analyst • Automatization
   ⌨️ JS • TS • React
-  📊 BPMN • UML • SWOT • MoSCoW
-  📈 Postman • Swagger • SQL • Git • REST / SOAP API
-  🏊🏻‍♂️ Sport • Swimming • Open-water
 </pre>
 <br><br>
 </div>
