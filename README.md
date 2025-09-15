@@ -7,5 +7,4 @@ HI THERE!
   💼 CMW • Analyst • Automatization
   ⌨️ JS • TS • React
 </pre>
-<br><br>
 </div>
