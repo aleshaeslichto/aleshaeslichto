@@ -3,8 +3,7 @@ HI THERE!
 <br>
 <br>
 <pre>
-  💼 CMW • Analyst • Automatization
+  💼 Analyst • Automatization
   ⌨️ JS • TS • React
-  🐳 ВАЙБКОДИНГ В МОДЕ? Я ВАЙБКОДЕР
 </pre>
 </div>
