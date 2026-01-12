@@ -4,6 +4,6 @@ HI THERE!
 <br>
 <pre>
   💼 Analyst • Automatization
-  ⌨️ JS • TS • React
+  ⌨️ ?
 </pre>
 </div>
